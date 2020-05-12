@@ -17,7 +17,7 @@ body{
 .access
 {
   font-weight: bold;
-  
+
 }
 .code
 {
@@ -30,10 +30,11 @@ body{
 .school
 {
   display: inline-block;
-  letter-spacing: 12px;
-  font-size: 12px;
+  letter-spacing: 13px;
+  font-size: 0.7rem;
   padding-left: 1em;
   border-top: 0.5rem;
+
 
 }
 .accesscode
