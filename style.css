@@ -10,12 +10,14 @@ body{
   text-align: center;
   background-color: white;
   font-family: Helvetica;
-  width: 35%;
+  width: 27%;
+  padding-top: 2px;
   margin: auto;
 }
 .access
 {
   font-weight: bold;
+  
 }
 .code
 {
@@ -33,12 +35,12 @@ body{
   padding-left: 1em;
   border-top: 0.5rem;
 
-
 }
 .accesscode
 {
   text-decoration: underline;
   text-underline-position: under;
+  text-decoration-thickness: 0.01rem;
 }
 .bal
 {
