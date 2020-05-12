@@ -1,0 +1,37 @@
+@@font-face {
+  font-family: Helvetica;
+  src: url(font/Helvetica400.ttf);
+}
+body{
+  background-color: black;
+}
+p
+{
+  text-align: center;
+  background-color: white;
+}
+.access
+{
+  font-weight: bold;
+}
+.code
+{
+  font-weight: bold;
+  background-color: rgb( 211,31,67);
+  padding-bottom: 1px;
+}
+.school
+{
+  letter-spacing: 5px;
+  font-weight: lighter;
+}
+.accesscode
+{
+  text-decoration: underline;
+  text-underline-position: under;
+}
+.bal
+{
+  color: rgb( 211,31,67);
+  font-weight: bold;
+}
