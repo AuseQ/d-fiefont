@@ -25,9 +25,11 @@ body{
 }
 .school
 {
+  display: inline-block;
   letter-spacing: 12px;
   font-size: 12px;
   padding-left: 1em;
+  border-top: 0.5rem;
 
 
 }
