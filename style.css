@@ -5,10 +5,11 @@
 body{
   background-color: black;
 }
-p
+.accesscodeschool
 {
   text-align: center;
   background-color: white;
+  font-family: Helvetica;
 }
 .access
 {
@@ -24,8 +25,11 @@ p
 }
 .school
 {
-  letter-spacing: 5px;
-  font-weight: lighter;
+  letter-spacing: 12px;
+  font-size: 12px;
+  padding-left: 1em;
+
+
 }
 .accesscode
 {
