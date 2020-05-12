@@ -10,6 +10,8 @@ body{
   text-align: center;
   background-color: white;
   font-family: Helvetica;
+  width: 35%;
+  margin: auto;
 }
 .access
 {
