@@ -17,25 +17,25 @@
   font-weight: bold;
   color: white;
   background-color: rgb( 211,31,67);
-  padding: 1px;
+
 }
 .accesscode
 {
-  font-size: 2rem;
-  padding-left: 4px;
-  padding-right:4px;
+  font-size: 6vw;
+  padding-left: 0.5vw;
+  padding-right:0.5vw;
 }
 .school
 {
-  word-spacing: 2.23rem;
-  font-size: 0.55rem;
-  border-top: 0.001rem solid;
+  word-spacing: 5.7vw;
+  font-size: 2.48vw;
+  border-top: 0.01vw solid;
   border-color: black;
-  padding-top: 6px;
+  padding-top: 0.6vw;
 }
 .bal
 {
   color: rgb( 211,31,67);
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 6vw;
 }
